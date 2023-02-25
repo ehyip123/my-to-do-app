@@ -10,7 +10,7 @@ todos = functions.get_todos()
 def add_todo():
     newtodo = st.session_state["new_todo"] + "\n"
     todos.append(newtodo)
-    functions.write_file(todos,"C:/Users/yip_c/To do list/todolist.txt")
+    functions.write_file(todos,'todolist.txt')
 
 st.title("Tappy")
 st.subheader("- the only todo app you will need")
