@@ -1,0 +1,8 @@
+Name of Project:
+To-do-list app
+
+Description
+This is a simple to-do-list app that adds and removes tasks according to user inputs. The app also features a completed list with the date of completion for each tasks.
+
+Also hosted on streamlit:
+https://ehyip123-my-to-do-app-webtodo-camhad.streamlit.app/
